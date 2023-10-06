@@ -1,0 +1,3 @@
+# Meu-curriculo
+um projeto simples para um portifólio/curriculo inicial
+n tem nada dms por enquanto, tipo,literalmente nada...
